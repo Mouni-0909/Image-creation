@@ -1,0 +1,41 @@
+
+{
+	"subject": "A grand and authentic Karthigai Deepam festival celebration in a traditional orthodox Tamil Nadu village. Tamil families including grandparents, parents, young couples and children celebrating together. Women wearing beautiful Kanchipuram silk sarees with traditional gold jewellery, jasmine flowers and braided hair. Men wearing white dhotis with angavastrams. Children wearing traditional pavadai sattai, silk dresses and small dhotis. Hundreds of glowing traditional clay oil lamps (agal vilakku) decorating the entire village.",
+	"setting": {
+		"place": "A traditional Tamil Brahmin agraharam village in Tamil Nadu, featuring long rows of ancestral houses, red tiled roofs, wooden doors, stone pillars, thinnai verandas, open courtyards, tulasi maadams, traditional kolam designs, brass vessels, banana trees, flower garlands and an ancient South Indian temple gopuram in the background.",
+		"era": "1950s, historically authentic rural Tamil Nadu lifestyle, architecture, clothing and cultural traditions.",
+		"time_of_day": "Twilight transitioning into a beautiful festive night."
+	},
+	"lighting": "Warm golden illumination from hundreds of flickering clay oil lamps. Natural twilight blue sky blending with golden lamp light, realistic shadows, soft reflections and a peaceful devotional atmosphere.",
+	"camera": {
+		"shot": "Wide-angle panoramic establishing shot capturing the entire village street, traditional houses, temple, families and hundreds of oil lamps in one continuous scene.",
+		"lens": "35mm cinematic photography lens with natural perspective and realistic depth of field.",
+		"angle": "Eye-level slightly elevated perspective, looking down the decorated village street to capture the complete festive celebration."
+	},
+	"palette": [
+		"Deep maroon",
+		"Emerald green",
+		"Royal blue",
+		"Mustard yellow",
+		"Traditional gold",
+		"Warm amber",
+		"Earthy terracotta",
+		"Natural twilight blue"
+	],
+	"style": "Ultra-photorealistic historical cinematic photography, authentic 1950s Tamil village atmosphere, highly detailed Kanchipuram silk saree textures, traditional gold jewellery, realistic human faces and natural body proportions. Women lighting clay lamps at house entrances, men helping their families, children joyfully carrying small lamps under adult supervision and grandparents sitting on traditional thinnai verandas. Natural family interactions, beautiful festive expressions, intricate architecture and hundreds of glowing lamps. Nostalgic, devotional, culturally rich and emotionally warm atmosphere. Every element must appear naturally integrated into one single realistic village celebration.",
+	"aspect_ratio": "16:9 landscape",
+	"avoid": [
+		"Modern buildings and apartments",
+		"Cars, motorcycles and modern vehicles",
+		"Electric decorative lights and LED lighting",
+		"Western or contemporary clothing",
+		"Jeans, T-shirts and modern footwear",
+		"Plastic decorations and modern household objects",
+		"Modern streetlights and concrete roads",
+		"Artificial-looking faces and exaggerated expressions",
+		"Distorted human anatomy, extra fingers or duplicate people",
+		"Cartoon, illustration, painting or fantasy appearance",
+		"Collage, split screens or multiple separate scenes",
+		"Text, captions, logos and watermarks"
+	]
+}
